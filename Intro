@@ -1,0 +1,6 @@
+## For loop mechanics with strings
+
+my_string = 'abcd'
+
+for c in my_string:
+    print ('hola')
